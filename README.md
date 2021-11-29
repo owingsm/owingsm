@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owingsm
+- 👋 Hi, I’m @owingsm - Marty
 - 👀 I’m interested in learning more about you.
 - 🌱 I’m currently learning ruby.
 - 💞️ I’m looking to collaborate on software engineering topics.
